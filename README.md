@@ -50,3 +50,20 @@ $\textcolor{#508AA1}{2022}$
 + EduCongress 2022, Paper presentation (Online)
 + Date & Location: 19.11.2022 17.45-19.45 | Online
 + Participants: 8-10 (Master's and Doctoral students, Academicians)
+
+$\textcolor{#508AA1}{2017}$
+---
+**Çoktan Seçmeli Madde Yazımı (Writing Multi-Choice Items)**
++ Seminar
++ Date & Location: 12.09.2017 15.00-16.00 | Oya Akın Yıldız Schools, Hoşdere, Ankara, Türkiye
++ Participants: 40-50 (Teachers)
+
+**Rubrikler (Rubrics)**
++ Seminar
++ Date & Location: 11.09.2017 15.00-16.00 | Oya Akın Yıldız Schools, Hoşdere, Ankara, Türkiye
++ Participants: 40-50 (Teachers)
+
+**Etkili Sunum Becerileri Eğitimi (Effective Presentation Skills)**
++ Seminar
++ Date & Location: 06.09.2017 13.30-15.00 | Oya Akın Yıldız Schools, Hoşdere, Ankara, Türkiye
++ Participants: 40-50 (Teachers)
