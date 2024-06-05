@@ -73,12 +73,12 @@ $\textcolor{#508AA1}{2015}$
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
 + Date & Location: 30.03.2015 | Samsun
-+ 20-25 (Volunteer trainer candidates)
++ Participants: 20-25 (Volunteer trainer candidates)
 
 $\textcolor{#508AA1}{2014}$
 ---
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
 + Date & Location: 13.06.2014-15.06.2014 | Erzincan
-+ 20-25 (Volunteer trainer candidates)
++ Participants: 20-25 (Volunteer trainer candidates)
 
