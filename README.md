@@ -67,3 +67,18 @@ $\textcolor{#508AA1}{2017}$
 + Seminar
 + Date & Location: 06.09.2017 13.30-15.00 | Oya Akın Yıldız Schools, Hoşdere, Ankara, Türkiye
 + Participants: 40-50 (Teachers)
+
+$\textcolor{#508AA1}{2015}$
+---
+**İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
++ Civil Society Project, Volunteer Training
++ Date & Location: 30.03.2015 | Samsun
++ 20-25 (Volunteer trainer candidates)
+
+$\textcolor{#508AA1}{2014}$
+---
+**İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
++ Civil Society Project, Volunteer Training
++ Date & Location: 13.06.2014-15.06.2014 | Erzincan
++ 20-25 (Volunteer trainer candidates)
+
