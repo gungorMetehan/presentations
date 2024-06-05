@@ -4,7 +4,7 @@ $\textcolor{#508AA1}{2024}$
 ---
 **İstatistik Teknik Belirleme ve Kullanmada Karşılaşılan Güçlükler ve Çözüm Önerileri**
 + Panel: Araştırmalarda Uygun İstatistiksel Tekniğin Belirlenmesi
-+ Date & Location: 30.05.2024 12.30-13.30 | Ankara University, Cebeci Campus, Faculty of Education, Classroom 17, ANKARA, Türkiye
++ Date & Location: 30.05.2024 12.30-13.30 | Ankara University, Cebeci Campus, Faculty of Education, Classroom 17, Ankara, Türkiye
 + Participants: 82 (Master's and Doctoral students, Academicians)
 + Type: Hybrid
 + Moderator: Assoc. Prof. Ergül Demir, Panelists: Metehan Güngör & Muharrem Şengül
@@ -70,6 +70,11 @@ $\textcolor{#508AA1}{2017}$
 
 $\textcolor{#508AA1}{2016}$
 ---
+**İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
++ Civil Society Project, Volunteer Training
++ Date & Location: 21.10.2016-23.10.2016 | Kars
++ Participants: 25-30 (Volunteer trainer candidates)
+
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
 + Date & Location: 10.02.2016-14.02.2016 | Ankara
