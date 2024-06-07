@@ -79,7 +79,12 @@ $\textcolor{#508AA1}{2016}$
 ---
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
-+ Date & Location: 21.10.2016-23.10.2016 | Kars
++ Date & Location: 16.11.2016-19.11.2016 | Dinler Hotels, Nevşehir, Türkiye
++ Participants: 20-25 (Volunteer trainer candidates)
+
+**İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
++ Civil Society Project, Volunteer Training
++ Date & Location: 20.10.2016-23.10.2016 | Sim-Er Hotel, Kars, Türkiye
 + Participants: 25-30 (Volunteer trainer candidates)
 
 **İletişim (Commucation)**
@@ -89,20 +94,25 @@ $\textcolor{#508AA1}{2016}$
 
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
-+ Date & Location: 10.02.2016-14.02.2016 | Ankara
++ Date & Location: 10.02.2016-13.02.2016 | Ankara, Türkiye
 + Participants: 18-22 (Volunteer trainer candidates)
 
 $\textcolor{#508AA1}{2015}$
 ---
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
-+ Date & Location: 30.03.2015 | Serra Otel, Samsun
++ Date & Location: 30.03.2015 | Serra Otel, Samsun, Türkiye
 + Participants: 18-20 (Volunteer trainer candidates)
 
 $\textcolor{#508AA1}{2014}$
 ---
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
-+ Date & Location: 13.06.2014-15.06.2014 | Erzincan
++ Date & Location: 13.06.2014-15.06.2014 | Erzincan, Türkiye
 + Participants: 20-25 (Volunteer trainer candidates)
+
+**İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
++ Civil Society Project, Volunteer Training
++ Date & Location: 28.02.2014-02.03.2014 | Atlıhan Hotel, Ordu, Türkiye
++ Participants: 18-20 (Volunteer trainer candidates)
 
