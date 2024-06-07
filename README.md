@@ -58,6 +58,11 @@ $\textcolor{#508AA1}{2019}$
 + Date & Location: 21.12.2019-22.12.2019 | Taksim, Istanbul, Türkiye
 + Participants: 20-25 (entrepreneur Syrian refugees)
 
+**Etkili Geri Bildirim (Effective Feedback)**
++ Volunteer Master Trainers National Coordination Meeting, Habitat Association
++ Date & Location: 24.08.2019 | KoruMar Hotel De Luxe, Kuşadası, Aydın, Türkiye
++ Participants: 18-25 (Volunteer master trainers)
+
 $\textcolor{#508AA1}{2017}$
 ---
 **Çoktan Seçmeli Madde Yazımı (Writing Multi-Choice Items)**
