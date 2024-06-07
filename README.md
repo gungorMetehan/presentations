@@ -51,18 +51,6 @@ $\textcolor{#508AA1}{2022}$
 + Date & Location: 19.11.2022 17.45-19.45 | Online
 + Participants: 8-10 (Master's and Doctoral students, Academicians)
 
-$\textcolor{#508AA1}{2021}$
----
-**Fenomenoloji (Phenomenology)**
-+ Course: 600306802071 Nitel Araştırma ve Veri Analizi [Qualitative Research & Data Analysis], Lecturer: Prof. Dr. Ezel TAVŞANCIL
-+ Date & Location: November, 2021 | Online (Zoom)
-+ Participants: 10 (Doctoral students)
-
-**Durum Çalışması (Case Study)**
-+ Course: 600306802071 Nitel Araştırma ve Veri Analizi [Qualitative Research & Data Analysis], Lecturer: Prof. Dr. Ezel TAVŞANCIL
-+ Date & Location: November, 2021 | Online (Zoom)
-+ Participants: 10 (Doctoral students)
-
 $\textcolor{#508AA1}{2019}$
 ---
 **Etkili Sunum Teknikleri Eğitimi (Effective Presentation Skills)**
