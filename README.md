@@ -51,6 +51,13 @@ $\textcolor{#508AA1}{2022}$
 + Date & Location: 19.11.2022 17.45-19.45 | Online
 + Participants: 8-10 (Master's and Doctoral students, Academicians)
 
+$\textcolor{#508AA1}{2019}$
+---
+**Etkili Sunum Teknikleri Eğitimi (Effective Presentation Skills)**
++ Project: IMECE
++ Date & Location: 21.12.2019-22.12.2019 | Taksim, Istanbul, Türkiye
++ Participants: 20-25 (entrepreneur Syrian refugees)
+
 $\textcolor{#508AA1}{2017}$
 ---
 **Çoktan Seçmeli Madde Yazımı (Writing Multi-Choice Items)**
@@ -74,6 +81,11 @@ $\textcolor{#508AA1}{2016}$
 + Civil Society Project, Volunteer Training
 + Date & Location: 21.10.2016-23.10.2016 | Kars
 + Participants: 25-30 (Volunteer trainer candidates)
+
+**İletişim (Commucation)**
++ Project: IT Projects' Master Trainers Training, Habitat Association
++ Date & Location: 13.08.2016-17.08.2016 | KoruMar Hotel De Luxe, Kuşadası, Aydın, Türkiye
++ Participants: 20-25 (IT projects' master trainers)
 
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
