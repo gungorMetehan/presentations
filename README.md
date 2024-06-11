@@ -2,6 +2,10 @@
 
 $\textcolor{#508AA1}{2024}$
 ---
+**Soru Hazırlama Teknikleri (Item Development Techniques)**
++ Date & Location: 11.06.2024 10.00-15.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-16, Kahramankazan, Ankara, Türkiye
++ Participants: 7 (Internal trainers)
+  
 **İstatistiksel Teknik Belirleme ve Kullanmada Karşılaşılan Güçlükler ve Çözüm Önerileri**
 + Panel: Araştırmalarda Uygun İstatistiksel Tekniğin Belirlenmesi
 + Date & Location: 30.05.2024 12.30-13.30 | Ankara University, Cebeci Campus, Faculty of Education, Classroom 17, Ankara, Türkiye
