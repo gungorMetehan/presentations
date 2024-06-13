@@ -16,7 +16,7 @@ $\textcolor{#508AA1}{2024}$
 
 **Lisansüstü Öğrencilerinin İstatistiksel Teknik Belirleme ve Kullanmada Karşılaştıkları Güçlüklere Yönelik Görüşleri**
 + EJER 2024, Paper presentation
-+ Date & Location: 22.05.2024 16.45-17.45 | Kocaeli University, Kocali, Türkiye
++ Date & Location: 22.05.2024 16.45-17.45 | Kocaeli University, Kocaeli, Türkiye
 + Participants: 10-12 (Master's and Doctoral students, Academicians)
 + Type: In-class
 
