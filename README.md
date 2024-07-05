@@ -3,6 +3,11 @@
 $\textcolor{#508AA1}{2024}$
 ---
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
++ Date & Location: 05.07.2024 08.00-12.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-23, Kahramankazan, Ankara, Türkiye
++ Participants: 12 (Internal trainers)
++ Type: In-class
+  
+**Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 04.07.2024 08.00-12.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-23, Kahramankazan, Ankara, Türkiye
 + Participants: 8 (Internal trainers)
 + Type: In-class
