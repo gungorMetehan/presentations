@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26c5d6c9-1563-432f-8356-0959bc621b55)# My Presentations
+# My Presentations
 
 $\textcolor{#508AA1}{2024}$
 ---
