@@ -1,7 +1,13 @@
-# My Presentations
+![image](https://github.com/user-attachments/assets/26c5d6c9-1563-432f-8356-0959bc621b55)# My Presentations
 
 $\textcolor{#508AA1}{2024}$
 ---
+**Öğretim Üyeleri Perspektifinden Öğrencilerin ve Araştırmacıların İstatistiksel Veri Analizlerinde ve Uygun İstatistiksel Tekniği Belirlemede Yaşadıkları Güçlükler (Faculty Members' Perspectives on the Challenges Faced by Students and Researchers in Statistical Data Analysis and Determining Appropriate Statistical Techniques)**
++ 6th International Mediterranean Scientific Research Congress, Paper presentation (Online)
++ Date & Location: 13.08.2024 12.30-13.30 | Online
++ Participants: 10-12 (Master's and Doctoral students, Academicians)
++ Type: Online
+
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 05.07.2024 08.00-12.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-23, Kahramankazan, Ankara, Türkiye
 + Participants: 12 (Internal trainers)
@@ -29,7 +35,7 @@ $\textcolor{#508AA1}{2024}$
 + Type: Hybrid
 + Moderator: Assoc. Prof. Ergül Demir, Panelists: Metehan Güngör & Muharrem Şengül
 
-**Lisansüstü Öğrencilerinin İstatistiksel Teknik Belirleme ve Kullanmada Karşılaştıkları Güçlüklere Yönelik Görüşleri**
+**Lisansüstü Öğrencilerinin İstatistiksel Teknik Belirleme ve Kullanmada Karşılaştıkları Güçlüklere Yönelik Görüşleri (Opinions of Graduate Students About the Challenges They Encounter in Determining and Using Statistical Techniques)**
 + EJER 2024, Paper presentation
 + Date & Location: 22.05.2024 16.45-17.45 | Kocaeli University, Kocaeli, Türkiye
 + Participants: 10-12 (Master's and Doctoral students, Academicians)
@@ -54,7 +60,7 @@ $\textcolor{#508AA1}{2023}$
 + Participants: 8-10 (Master's and Doctoral students, Academicians)
 + Type: Online
 
-**DMF Belirlemede Angoff’un Dönüştürülmüş Madde Güçlükleri Yönteminin Kullanılması Ne Kadar Mantıklı?**
+**DMF Belirlemede Angoff’un Dönüştürülmüş Madde Güçlükleri Yönteminin Kullanılması Ne Kadar Mantıklı? (How Rational is It to Use Angoff's Transformed Item Difficulties Method in DIF Detection)**
 + EduCongress 2023, Paper presentation (Online)
 + Date & Location: 23.09.2023 09.30-11.00 | Online
 + Participants: 8-10 (Master's and Doctoral students, Academicians)
