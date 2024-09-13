@@ -7,6 +7,12 @@ $\textcolor{#508AA1}{2024}$
 + Participants: 6 (Internal trainers, Internal trainer candidates)
 + Type: In-class
 
+**A Web-Based Test and Item Analysis Application for Corporate Universities**
++ 9th International Conference on Measurement and Evaluation in Education and Psychology, Paper presentation
++ Date & Location: 06.09.2024 09.00-10.00 | Online
++ Participants: 5 (Doctoral students, Academicians)
++ Type: Online
+
 **Öğretim Üyeleri Perspektifinden Öğrencilerin ve Araştırmacıların İstatistiksel Veri Analizlerinde ve Uygun İstatistiksel Tekniği Belirlemede Yaşadıkları Güçlükler (Faculty Members' Perspectives on the Challenges Faced by Students and Researchers in Statistical Data Analysis and Determining Appropriate Statistical Techniques)**
 + 6th International Mediterranean Scientific Research Congress, Paper presentation (Online)
 + Date & Location: 13.08.2024 12.30-13.30 | Online
