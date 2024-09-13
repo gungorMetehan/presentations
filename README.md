@@ -2,6 +2,11 @@
 
 $\textcolor{#508AA1}{2024}$
 ---
+**Soru Hazırlama Teknikleri (Item Development Techniques)**
++ Date & Location: 13.09.2024 09.00-13.00 (4h) | Turkish Aerospace Academy, Classroom: B850 Meeting Room 2, Kahramankazan, Ankara, Türkiye
++ Participants: 6 (Internal trainers, Internal trainer candidates)
++ Type: In-class
+
 **Öğretim Üyeleri Perspektifinden Öğrencilerin ve Araştırmacıların İstatistiksel Veri Analizlerinde ve Uygun İstatistiksel Tekniği Belirlemede Yaşadıkları Güçlükler (Faculty Members' Perspectives on the Challenges Faced by Students and Researchers in Statistical Data Analysis and Determining Appropriate Statistical Techniques)**
 + 6th International Mediterranean Scientific Research Congress, Paper presentation (Online)
 + Date & Location: 13.08.2024 12.30-13.30 | Online
