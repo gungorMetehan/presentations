@@ -28,7 +28,13 @@ $\textcolor{#508AA1}{2024}$
 + Date & Location: 04.07.2024 08.00-12.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-23, Kahramankazan, Ankara, Türkiye
 + Participants: 8 (Internal trainers)
 + Type: In-class
-  
+
+**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
++ PhD Thesis Monitoring Committee #2
++ Date & Location: 26.06.2024 18.00-19.00 | Online
++ Participants: 3 (Jury)
++ Type: Online
+
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 13.06.2024 10.00-15.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-16, Kahramankazan, Ankara, Türkiye
 + Participants: 9 (Internal trainers)
@@ -57,6 +63,12 @@ $\textcolor{#508AA1}{2024}$
 + Participants: 7 (Internal trainers, Internal trainer candidates)
 + Type: In-class
 
+**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
++ PhD Thesis Monitoring Committee #1
++ Date & Location: 15.01.2024 12.00-13.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
++ Participants: 3 (Jury)
++ Type: In-class
+
 $\textcolor{#508AA1}{2023}$
 ---
 **Anket Verisinden Anlamlı Bilgi Çıkarmak**
@@ -77,10 +89,17 @@ $\textcolor{#508AA1}{2023}$
 + Participants: 8-10 (Master's and Doctoral students, Faculty members)
 + Type: Online
 
-**Fen Başarısı Açısından Okullar Arası Farklar: TIMSS 2019**
-+ ICFAR 2023, Paper presentation (Video)
-+ Date & Location: 23.02.2023 | E-mail
-+ Type: Online
+**Anket Verisinden Anlamlı Bilgi Çıkarmak**
++ Hayat Boyu Öğrenme ve Eğitim Fuarı
++ Date & Location: 24.11.2023 14.00-14.30 | ATO Congresium, Çankaya, Ankara, Türkiye
++ Participants: 20-22
++ Type: In-class
+
+**Farklı Kayıp Veri Mekanizmalarında Kayıp Veri Atamasının Kayıp Veri Yanlılığına Etkisinin DMF Teknikleriyle İncelenmesi**
++ PhD Thesis Proposal
++ Date & Location: 12.06.2023 10.00-11.00 | Ankara University Cebeci Campus, Ankara, Türkiye
++ Participants: 3 (Jury)
++ Type: In-class
 
 $\textcolor{#508AA1}{2022}$
 ---
