@@ -110,6 +110,12 @@ $\textcolor{#508AA1}{2019}$
 + Participants: 18-25 (Volunteer master trainers)
 + Type: In-class
 
+**Investigation of Measurement Invariance of Science Motivation and Self-Efficacy Model: PISA 2015 Turkey Sample (Fen Motivasyonu ve Özyeterliği Modeli'nin Ölçme Değişmezliğinin İncelenmesi: PISA 2015 Türkiye Örneği)**
++ Master Thesis Defence
++ Date & Location: 30.05.2019 | Hacettepe University Beytepe Campus, Ankara, Türkiye
++ Participants: 3 (Jury)
++ Type: In-class
+
 $\textcolor{#508AA1}{2017}$
 ---
 **Çoktan Seçmeli Madde Yazımı (Writing Multi-Choice Items)**
