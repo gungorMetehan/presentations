@@ -89,12 +89,6 @@ $\textcolor{#508AA1}{2023}$
 + Participants: 8-10 (Master's and Doctoral students, Faculty members)
 + Type: Online
 
-**Anket Verisinden Anlamlı Bilgi Çıkarmak**
-+ Hayat Boyu Öğrenme ve Eğitim Fuarı
-+ Date & Location: 24.11.2023 14.00-14.30 | ATO Congresium, Çankaya, Ankara, Türkiye
-+ Participants: 20-22
-+ Type: In-class
-
 **Farklı Kayıp Veri Mekanizmalarında Kayıp Veri Atamasının Kayıp Veri Yanlılığına Etkisinin DMF Teknikleriyle İncelenmesi**
 + PhD Thesis Proposal
 + Date & Location: 12.06.2023 10.00-11.00 | Ankara University Cebeci Campus, Ankara, Türkiye
