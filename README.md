@@ -1,5 +1,13 @@
 # My Presentations
 
+$\textcolor{#508AA1}{2025}$
+---
+**İkili Puanlanan Maddeler İçin Değişen Madde Fonksiyonu Belirleme Tekniklerinin Sınıflandırılmasına Yönelik Bir Çalışma (A Study on Classification of Differential Item Functioning Detection Techniques for Dichotomously Scored Items)**
++ Ankara International Congress on Scientific Research - XI, Paper presentation (Online)
++ Date & Location: 10.01.2025 14.00-16.00 | Online
++ Participants: 8-10 (Master's and Doctoral students, Faculty members)
++ Type: Online
+  
 $\textcolor{#508AA1}{2024}$
 ---
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
