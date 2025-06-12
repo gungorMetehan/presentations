@@ -10,6 +10,12 @@ $\textcolor{#508AA1}{2025}$
   
 $\textcolor{#508AA1}{2024}$
 ---
+**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
++ PhD Thesis Monitoring Committee #3
++ Date & Location: 26.12.2024 14.00-15.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
++ Participants: 3 (Jury)
++ Type: In-class
+
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 13.09.2024 09.00-13.00 (4h) | Turkish Aerospace Academy, Classroom: B850 Meeting Room 2, Kahramankazan, Ankara, Türkiye
 + Participants: 6 (Internal trainers, Internal trainer candidates)
