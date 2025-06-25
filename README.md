@@ -2,6 +2,13 @@
 
 $\textcolor{#508AA1}{2025}$
 ---
+**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
++ PhD Thesis Monitoring Committee #4
++ Date & Location: 19.06.2025 10.00-11.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
++ Participants: 3 (Prof. Dr. Duygu Anıl, Prof. Dr. C. Deha Doğan, Prof. Dr. Ergül Demir)
++ Type: In-class
+
+
 **İkili Puanlanan Maddeler İçin Değişen Madde Fonksiyonu Belirleme Tekniklerinin Sınıflandırılmasına Yönelik Bir Çalışma (A Study on Classification of Differential Item Functioning Detection Techniques for Dichotomously Scored Items)**
 + Ankara International Congress on Scientific Research - XI, Paper presentation (Online)
 + Date & Location: 10.01.2025 14.00-16.00 | Online
@@ -13,7 +20,7 @@ $\textcolor{#508AA1}{2024}$
 **Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
 + PhD Thesis Monitoring Committee #3
 + Date & Location: 26.12.2024 14.00-15.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
-+ Participants: 3 (Jury)
++ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
 + Type: In-class
 
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
@@ -46,7 +53,7 @@ $\textcolor{#508AA1}{2024}$
 **Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
 + PhD Thesis Monitoring Committee #2
 + Date & Location: 26.06.2024 18.00-19.00 | Online
-+ Participants: 3 (Jury)
++ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
 + Type: Online
 
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
@@ -80,7 +87,7 @@ $\textcolor{#508AA1}{2024}$
 **Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
 + PhD Thesis Monitoring Committee #1
 + Date & Location: 15.01.2024 12.00-13.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
-+ Participants: 3 (Jury)
++ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
 + Type: In-class
 
 $\textcolor{#508AA1}{2023}$
@@ -106,7 +113,7 @@ $\textcolor{#508AA1}{2023}$
 **Farklı Kayıp Veri Mekanizmalarında Kayıp Veri Atamasının Kayıp Veri Yanlılığına Etkisinin DMF Teknikleriyle İncelenmesi**
 + PhD Thesis Proposal
 + Date & Location: 12.06.2023 10.00-11.00 | Ankara University Cebeci Campus, Ankara, Türkiye
-+ Participants: 3 (Jury)
++ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
 + Type: In-class
 
 $\textcolor{#508AA1}{2022}$
