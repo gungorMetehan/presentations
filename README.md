@@ -1,5 +1,13 @@
 # My Presentations
 
+$\textcolor{#508AA1}{2026}$
+---
+**R Programlama Diline Giriş (Introduction to R Programming Language)**
++ Date & Location: 12.01.2026 08.00-17.00 (8h) | Turkish Aerospace Academy, Classroom: 1K-20, Kahramankazan, Ankara, Türkiye
++ Participants: 15 (Engineers, Experts)
++ Type: In-class
+
+
 $\textcolor{#508AA1}{2025}$
 ---
 **Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
