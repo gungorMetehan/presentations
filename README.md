@@ -10,12 +10,11 @@ $\textcolor{#508AA1}{2026}$
 
 $\textcolor{#508AA1}{2025}$
 ---
-**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
-+ PhD Thesis Monitoring Committee #4
-+ Date & Location: 19.06.2025 10.00-11.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
-+ Participants: 3 (Prof. Dr. Duygu Anıl, Prof. Dr. C. Deha Doğan, Prof. Dr. Ergül Demir)
-+ Type: In-class
-
+**MTK Tabanlı Olmayan Erken Dönem Öncü Yöntemlerin Değişen Madde Fonksiyonu Belirlemede Kullanımı (Use of Non-IRT-Based Early Pioneer Methods in Detecting Differential Item Functioning)**
++ International Education Congress (EDUCongress 2025), Paper presentation (Online)
++ Date & Location: 28.11.2025 19.15-20.45 | Online
++ Participants: 7-8 (Master's and Doctoral students, Faculty members)
++ Type: Online
 
 **İkili Puanlanan Maddeler İçin Değişen Madde Fonksiyonu Belirleme Tekniklerinin Sınıflandırılmasına Yönelik Bir Çalışma (A Study on Classification of Differential Item Functioning Detection Techniques for Dichotomously Scored Items)**
 + Ankara International Congress on Scientific Research - XI, Paper presentation (Online)
@@ -25,12 +24,6 @@ $\textcolor{#508AA1}{2025}$
   
 $\textcolor{#508AA1}{2024}$
 ---
-**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
-+ PhD Thesis Monitoring Committee #3
-+ Date & Location: 26.12.2024 14.00-15.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
-+ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
-+ Type: In-class
-
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 13.09.2024 09.00-13.00 (4h) | Turkish Aerospace Academy, Classroom: B850 Meeting Room 2, Kahramankazan, Ankara, Türkiye
 + Participants: 6 (Internal trainers, Internal trainer candidates)
@@ -57,12 +50,6 @@ $\textcolor{#508AA1}{2024}$
 + Date & Location: 04.07.2024 08.00-12.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-23, Kahramankazan, Ankara, Türkiye
 + Participants: 8 (Internal trainers)
 + Type: In-class
-
-**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
-+ PhD Thesis Monitoring Committee #2
-+ Date & Location: 26.06.2024 18.00-19.00 | Online
-+ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
-+ Type: Online
 
 **Soru Hazırlama Teknikleri (Item Development Techniques)**
 + Date & Location: 13.06.2024 10.00-15.00 (4h) | Turkish Aerospace Academy, Classroom: 2K-16, Kahramankazan, Ankara, Türkiye
@@ -92,12 +79,6 @@ $\textcolor{#508AA1}{2024}$
 + Participants: 7 (Internal trainers, Internal trainer candidates)
 + Type: In-class
 
-**Kayıp Veri Mekanizmasının İncelenmesinde Değişen Madde Fonksiyonu Tekniklerinin Kullanılması**
-+ PhD Thesis Monitoring Committee #1
-+ Date & Location: 15.01.2024 12.00-13.00 | Ankara University Cebeci Campus, Class: 5100, Ankara, Türkiye
-+ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
-+ Type: In-class
-
 $\textcolor{#508AA1}{2023}$
 ---
 **Anket Verisinden Anlamlı Bilgi Çıkarmak**
@@ -117,12 +98,6 @@ $\textcolor{#508AA1}{2023}$
 + Date & Location: 23.09.2023 09.30-11.00 | Online
 + Participants: 8-10 (Master's and Doctoral students, Faculty members)
 + Type: Online
-
-**Farklı Kayıp Veri Mekanizmalarında Kayıp Veri Atamasının Kayıp Veri Yanlılığına Etkisinin DMF Teknikleriyle İncelenmesi**
-+ PhD Thesis Proposal
-+ Date & Location: 12.06.2023 10.00-11.00 | Ankara University Cebeci Campus, Ankara, Türkiye
-+ Participants: 3 (Prof. Dr. Duygu Anıl, Assoc. Prof. Dr. C. Deha Doğan, Assoc. Prof. Dr. Ergül Demir)
-+ Type: In-class
 
 $\textcolor{#508AA1}{2022}$
 ---
@@ -150,12 +125,6 @@ $\textcolor{#508AA1}{2019}$
 + Volunteer Master Trainers National Coordination Meeting, Habitat Association
 + Date & Location: 24.08.2019 | KoruMar Hotel De Luxe, Kuşadası, Aydın, Türkiye
 + Participants: 18-25 (Volunteer master trainers)
-+ Type: In-class
-
-**Investigation of Measurement Invariance of Science Motivation and Self-Efficacy Model: PISA 2015 Turkey Sample (Fen Motivasyonu ve Özyeterliği Modeli'nin Ölçme Değişmezliğinin İncelenmesi: PISA 2015 Türkiye Örneği)**
-+ Master Thesis Defence
-+ Date & Location: 30.05.2019 | Hacettepe University Beytepe Campus, Ankara, Türkiye
-+ Participants: 3 (Jury)
 + Type: In-class
 
 $\textcolor{#508AA1}{2017}$
@@ -225,4 +194,3 @@ $\textcolor{#508AA1}{2014}$
 + Date & Location: 28.02.2014-02.03.2014 | Atlıhan Hotel, Ordu, Türkiye
 + Participants: 18-20 (Volunteer trainer candidates)
 + Type: In-class
-
