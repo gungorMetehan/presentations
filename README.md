@@ -94,7 +94,7 @@ $\textcolor{#508AA1}{2023}$
 + Type: Online
 
 **DMF Belirlemede Angoff’un Dönüştürülmüş Madde Güçlükleri Yönteminin Kullanılması Ne Kadar Mantıklı? (How Rational is It to Use Angoff's Transformed Item Difficulties Method in DIF Detection)**
-+ EduCongress 2023, Paper presentation (Online)
++ International Education Congress (EDUCongress 2023), Paper presentation (Online)
 + Date & Location: 23.09.2023 09.30-11.00 | Online
 + Participants: 8-10 (Master's and Doctoral students, Faculty members)
 + Type: Online
@@ -108,7 +108,7 @@ $\textcolor{#508AA1}{2022}$
 + Type: Online
 
 **Farklı Ülkelerde 8. Sınıf Öğrencilerinin Matematik Başarısı Açısından Okullar Arası Farkların İncelenmesi**
-+ EduCongress 2022, Paper presentation (Online)
++ International Education Congress (EDUCongress 2022), Paper presentation (Online)
 + Date & Location: 19.11.2022 17.45-19.45 | Online
 + Participants: 8-10 (Master's and Doctoral students, Faculty members)
 + Type: Online
