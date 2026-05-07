@@ -7,6 +7,11 @@ $\textcolor{#508AA1}{2026}$
 + Participants: 2 (Engineers, Experts)
 + Type: In-class
 
+**Eğitim İhtiyaç Analizi | KY360 Projesi (Training Needs Analysis | KY360 Project)** 
++ Date & Location: 17.04.2026 15.00-16.00 (1h) | Turkish Aerospace - B171, Atakan Şahin Konferans Salonu, Kahramankazan, Ankara, Türkiye
++ Participants: 44 (HR and L&D Specialists)
++ Type: In-class
+
 **R Programlama Diline Giriş (Introduction to R Programming Language)**
 + Date & Location: 11.02.2026 08.00-17.00 (8h) | Turkish Aerospace Academy, Classroom: 1K-20, Kahramankazan, Ankara, Türkiye
 + Participants: 9 (Engineers, Experts)
