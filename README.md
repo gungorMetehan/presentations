@@ -9,7 +9,7 @@ $\textcolor{#508AA1}{2026}$
 
 **Eğitim İhtiyaç Analizi | KY360 Projesi (Training Needs Analysis | KY360 Project)** 
 + Date & Location: 17.04.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Konferans Salonu, Kahramankazan, Ankara, Türkiye
-+ Participants: 44 (HR and L&D Specialists)
++ Participants: 44 (HR and Learning & Development Specialists)
 + Type: In-class
 
 **R Programlama Diline Giriş (Introduction to R Programming Language)**
