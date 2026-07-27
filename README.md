@@ -192,7 +192,7 @@ $\textcolor{#508AA1}{2015}$
 ---
 **İnternetle Hayat Kolay Proje Gönüllü Eğitmen Eğitimi (Life is Simpler with Internet Project Volunteer Trainer Training)**
 + Civil Society Project, Volunteer Training
-+ Date & Location: 30.03.2015 | Serra Otel, Samsun, Türkiye
++ Date & Location: 30.03.2015-01.04.2025 | Serra Otel, Samsun, Türkiye
 + Participants: 18-20 (Volunteer trainer candidates)
 + Type: In-class
 
