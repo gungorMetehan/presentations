@@ -2,6 +2,11 @@
 
 $\textcolor{#508AA1}{2026}$
 ---
+**Ölçme ve Değerlendirme | KY360 Projesi (Measurement and Evaluation | KY360 Project)** 
++ Date & Location: 31.07.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Konferans Salonu, Kahramankazan, Ankara, Türkiye
++ Participants: 29 (HR and Learning & Development Specialists)
++ Type: In-class
+
 **R Programlama Diline Giriş (Introduction to R Programming Language)**
 + Date & Location: 06.05.2026 08.00-17.00 (8h) | Turkish Aerospace Academy, Classroom: 1K-21, Kahramankazan, Ankara, Türkiye
 + Participants: 2 (Engineers, Experts)
