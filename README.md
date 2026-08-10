@@ -3,7 +3,7 @@
 $\textcolor{#508AA1}{2026}$
 ---
 **Ölçme ve Değerlendirme | KY360 Projesi (Measurement and Evaluation | KY360 Project)** 
-+ Date & Location: 31.07.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Konferans Salonu, Kahramankazan, Ankara, Türkiye
++ Date & Location: 31.07.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Erdoğan Konferans Salonu, Kahramankazan, Ankara, Türkiye
 + Participants: 29 (HR and Learning & Development Specialists)
 + Type: In-class
 
@@ -13,7 +13,7 @@ $\textcolor{#508AA1}{2026}$
 + Type: In-class
 
 **Eğitim İhtiyaç Analizi | KY360 Projesi (Training Needs Analysis | KY360 Project)** 
-+ Date & Location: 17.04.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Konferans Salonu, Kahramankazan, Ankara, Türkiye
++ Date & Location: 17.04.2026 15.00-16.00 (1h) | Turkish Aerospace, Inc. - B171, Atakan Şahin Erdoğan Konferans Salonu, Kahramankazan, Ankara, Türkiye
 + Participants: 44 (HR and Learning & Development Specialists)
 + Type: In-class
 
